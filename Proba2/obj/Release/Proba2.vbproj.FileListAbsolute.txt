@@ -1,0 +1,16 @@
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Proba2.exe.config
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Proba2.exe
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Proba2.pdb
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Proba2.xml
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\itextsharp.dll
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Spire.License.dll
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Spire.Pdf.dll
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Spire.License.xml
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Release\Spire.Pdf.xml
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.vbprojResolveAssemblyReference.cache
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.Form1.resources
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.Resources.resources
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.vbproj.GenerateResource.Cache
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.exe
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.xml
+C:\Users\Julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Release\Proba2.pdb
